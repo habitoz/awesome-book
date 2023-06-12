@@ -1,7 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -15,13 +13,11 @@
 - [👥 Authors](#authors)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 [portofolio] <a name="about-project"></a>
+# 📖 [Awesome-Books] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[portofolio]** is my personal portofolio.
+**[Awesome-Books]** is a simple book collection app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -32,8 +28,9 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">html</a></li>
-    <li><a href="#">css</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="#">Java script</a></li>
   </ul>
 </details>
 
@@ -43,10 +40,6 @@
     
   </ul>
 </details>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
