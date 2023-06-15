@@ -152,6 +152,6 @@ I would like to thank my coding partner for working with me sharing his knowledg
 
 ## 📝 License <a name="license"></a>
 
-This project is [LICENSE](./LICENCE) licensed.
+This project is [LICENSE](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
